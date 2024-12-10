@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: lightgreen;
+    padding-bottom: 40px;
+    
+}
+.viewportspace {
+    margin-left: 100px;
+    margin-top: 50px;
+    display: flex;
+}
+.imageposter {
+    width:  400px;
+}
+.maincard1 {
+    background-color: white;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 20px;
+  
+}
+.heading{
+    padding: 20px;
+}
+.paragraph {
+    padding: 20px;
+    color: rgb(1, 71, 1);
+}
+.anchorpoint {
+    padding: 20px;
+}
+.button {
+    background-color: blue;
+    border-width: 0px;
+    margin-bottom: 20px;
+    width: 50%;
+    height: 40px;
+    margin-left: 20%;
+    color: white;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 8px;
+}
